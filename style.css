@@ -183,7 +183,7 @@ section {
 
 @media (min-width: 769px) {
   #food .food-box {
-    width: 50%;
+    width: 100%;
   }
   
   #food .food-box a .food-box-inner .button-readmore:hover {
